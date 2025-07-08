@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate Flutter developer eager to collaborate on exciting and challenging projects. With a solid foundation in mobile app development, I'm always looking for opportunities to apply my skills and contribute to innovative solutions. I'm particularly interested in projects that push boundaries, where I can continue to learn and grow while delivering high-quality, cross-platform applications. Let's work together to create something great!
+Hi there! I'm a passionate UI/UX Designer and Flutter developer eager to collaborate on exciting and challenging projects. With a solid foundation in mobile app Design and development, I'm always looking for opportunities to apply my skills and contribute to innovative solutions. I'm particularly interested in projects that push boundaries, where I can continue to learn and grow while delivering high-quality, cross-platform applications. Let's work together to create something great!
 
 
 ## 🌐 Socials:
